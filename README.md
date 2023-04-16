@@ -6,6 +6,9 @@ the source code is in src folder
 the compiled file is in bin folder
 
 And we have a batch file in test folder that test all three cases of the program which are:
+
 • Normal case --> provide the input file and specify it’s name inside the batch script.
+
 • Not valid Autosar file case --> provide the file also
+
 • Empty file
